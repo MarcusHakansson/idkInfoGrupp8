@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/Marcus/Documents/STUDIER/IxD/PROGRAMMING/GitHub/idkInfoGrupp8/.metadata/.plugins/org.eclipse.jdt.core
+1503933933.index
